@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" tvg-name="" group-title="All Channels",HBO 
 http://125.227.210.55:8153/VideoInput/play.ts
