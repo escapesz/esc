@@ -1,4 +1,5 @@
+#EXTM3U
+#EXTINF:-1 , ONS+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uY+6Zqbrmiy+m4UM4zm8Mg", "kid":"p2QVI6yHWOOx4N8ihxnhRQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="ts246" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" ,Star Sports Select 1 HD
+#KODIPROP:inputstream.adaptive.license_key=kid:key
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
