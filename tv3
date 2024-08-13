@@ -1,5 +1,10 @@
 #EXTM3U
-#EXTINF:-1 , ONS+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=kid:key
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-TARGETDURATION:1
+#EXTINF:10.000000,
+http://fortv.cc:8080/live/zacslife%40gmail.com/bCtS8mEwBe/125635.ts
+#EXT-X-ENDLIST
+
+#EXTINF:10.000000, tvg-id="" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" tvg-name="" group-title="All Channels",HBO 
+http://fortv.cc:8080/live/zacslife%40gmail.com/bCtS8mEwBe/125635.ts
