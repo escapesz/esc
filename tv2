@@ -1,6 +1,10 @@
+#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-TARGETDURATION:1
-#EXTINF:-1 group-title="" tvg-id="new/pbo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png"  group-title="SPORTS", One Sports+
-http://user.scalecdn.co:8080/live/tc2022/tc2022/546796.ts
+#EXTINF:10.000000,
+http://fortv.cc:8080/live/zacslife%40gmail.com/bCtS8mEwBe/35254.ts
 #EXT-X-ENDLIST
+
+#EXTINF:10.000000, tvg-id="" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" tvg-name="" group-title="All Channels",HBO 
+http://fortv.cc:8080/live/zacslife%40gmail.com/bCtS8mEwBe/35254.ts
