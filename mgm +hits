@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-TARGETDURATION:1
+#EXTINF:10.000000,
+http://defaultgen.com:3050/live/JeffR3/LSicJDRByj/418099.ts
+#EXT-X-ENDLIST
+
+#EXTINF:10.000000, tvg-id="" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" tvg-name="" group-title="All Channels",HBO 
+http://defaultgen.com:3050/live/JeffR3/LSicJDRByj/418099.ts
