@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1, MPEG-DASH Stream
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
