@@ -3,8 +3,8 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-TARGETDURATION:1
 #EXTINF:10.000000,
-http://kstv.us:8080/live/PHXtb5E44x/904883366212/47855.ts
+http://highlevel.upscalenext.com:23000/live/FranGa/ygkZhDdZTr/33189.ts
 #EXT-X-ENDLIST
 
 #EXTINF:10.000000, tvg-id="" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" tvg-name="" group-title="All Channels",HBO 
-http://kstv.us:8080/live/PHXtb5E44x/904883366212/47855.ts
+http://highlevel.upscalenext.com:23000/live/FranGa/ygkZhDdZTr/33189.ts
