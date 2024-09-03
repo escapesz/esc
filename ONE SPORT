@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-TARGETDURATION:1
+#EXTINF:10.000000,
+http://mv2.cdn-dtv.com:8080/live/electro_432917/sFnRAbsG/287805.ts
+#EXT-X-ENDLIST
+
+#EXTINF:10.000000, tvg-id="" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" tvg-name="" group-title="All Channels", ONE SPORT+
+http://mv2.cdn-dtv.com:8080/live/electro_432917/sFnRAbsG/287805.ts
