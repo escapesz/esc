@@ -1,3 +1,6 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml, https://www.bevy.be/bevyfiles/philippinespremium2.xml, https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml" 2 Corinthians 9:7 KJV   "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver."
+
+
 #EXTINF:-1 tvg-id="411.astro" tvg-logo="https://logodix.com/logo/95790.png" group-title="Local", HBO HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
