@@ -1,0 +1,591 @@
+#EXTM3U x-tvg-url="https://jeromelaliag.link/iptv/epg.xml.php"
+#EXTM3U 
+
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", EUROSPORT 1
+http://newlife3.wanicelife.com:8880/live/DAANM2914/y3WuUKV9h8/28192.ts
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", EUROSPORT 2
+http://newlife3.wanicelife.com:8880/live/DAANM2914/y3WuUKV9h8/28191.ts
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", TSN1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", TSN2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", TSN3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", TSN4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", TSN5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", HBO BOXING
+http://84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/145499
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", NBC EAST
+http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", SPORTSNET ONE
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", TNT SPORTS
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/15955.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" tvg-name="" group-title="SPORTS", NBA HD
+http://fl3.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="SPORTS", NBA 
+http://fl3.moveonjoy.com/NBA_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" tvg-name="" group-title="SPORTS", NBA TNT
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="SPORTS", NBA US
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/22501.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1539.1689778027.png" group-title="SPORTS", TNT Sports1
+http://iptvpe.blogdns.net:25461/play/nwFdxxvevAkVlPmoe4s3uqc_HG3JwRN9zcKVGs057xU/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="SPORTS", TNT Sports2
+http://iptvpe.blogdns.net:25461/play/nwFdxxvevAkVlPmoe4s3ug044YWlfTu5t4tLxMSUsjk/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="SPORTS", TNT Sports3
+http://iptvpe.blogdns.net:25461/play/vC9vHvd6tqmthlGJ5TDtWViKdQDzWQWUqsl1X_S8RCg/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="SPORTS", TNT Sports4
+http://iptvpe.blogdns.net:25461/play/vC9vHvd6tqmthlGJ5TDtWSQDmgUBcfdgxMg2frwmxuc/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="SPORTS", TNT Sports5
+http://iptvpe.blogdns.net:25461/play/D7jUAwgLiKCyYBWSb0Pb4_ulQfDkWMn3bD9UmomaWCM/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="SPORTS", CBS Sports Network
+http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="SPORTS", UFC LOCAL
+http://fl1.moveonjoy.com/UFC/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="SPORTS", GOLF CHANNEL
+http://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="SPORTS", JSPORT 1
+http://luong.utako.moe/js1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="SPORTS", JSPORT 2
+http://luong.utako.moe/js2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="SPORTS", JSPORT 3
+http://luong.utako.moe/js3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="SPORTS", JSPORT 4
+http://luong.utako.moe/js4/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", NHL NETWORK
+https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", NESN
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", MLB NETWORK
+https://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", RACING AMERICA
+https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="SPORTS", MOTOAMERICA
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ8dEgoKQDipi-0O-ZJX3-9-XxY5znC6uU0pxBy5_IycL3wIPmkD5nPYE&s=10" group-title="SPORTS", TENNIS CHANNEL
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png" tvg-name="" group-title="LOCAL",TV5
+http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/54657
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="LOCAL", ALLTV
+https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" tvg-name="" group-title="LOCAL", Kapamilya Local
+https://cdn.ganbaruby23.xyz/stream/restream/kapamilyachannel/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" tvg-name="" group-title="LOCAL", Cinema One
+http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/500299955
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="LOCAL", PBA Rush2
+http://23.227.140.75:3050/SnoopD112/u5PTQ9mKW9/558787
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="LOCAL", PBA Rush
+http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/89508
+
+#EXTINF:-1 tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png" tvg-name="MYX" group-title="LOCAL", MYX
+http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/500299938
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" tvg-name="" group-title="NEWS",CNN
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/15934.ts?thanos1975
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="NEWS",CHANNEL NEWS ASIA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="NEWS", BBC NEWS
+https://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="NEWS", NBC NEWS
+https://d4whmvwm0rdvi.cloudfront.net/10007/99992212/hls/master.m3u8?ads.xumo_channelId=99992212&ads.asnw=169843&ads.afid=137704898&ads.sfid=16373024&ads.csid=lgchannels_us_nbcnewsnow_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=xumo&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99992212&ads._fw_ifa_type=dpid&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="NEWS", ESPN NEWS
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/15952.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" tvg-name="BBC World News" group-title="NEWS",BBC WORLD NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="NEWS", NEWS NATION
+https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera.ph" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" tvg-name="ALJAZEERA" group-title="NEWS",ALJAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="NEWS", DW NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="NEWS", WEATRHER CHANNEL
+http://212.102.60.231/THE_WEATHER_CHANNEL/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="NEWS", HLN
+https://fl3.moveonjoy.com/HLN/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" tvg-name="Bloomberg" group-title="NEWS",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="NEWS", GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" tvg-name="" group-title="NEWS", FOX NEWS NOW
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="NEWS", MSNBC
+https://fl3.moveonjoy.com/MSNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" tvg-name="Cgtn.ph" group-title="NEWS",CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="NEWS", DUBAI ONE
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" tvg-name="" group-title="MOVIES", Asian Crush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-name="" group-title="MOVIES",AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DznVVRbW/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png" tvg-name="AXN" group-title="MOVIES", AXN
+http://iptvid.my.id/avc/ningning111/10232002/axn.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="MOVIES", USA NETWORK
+https://fl3.moveonjoy.com/USA_Network/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="MOVIES", WETV
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/23233.ts?thanos1975
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="MOVIES", POP TV
+http://fl3.moveonjoy.com/Pop_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="MOVIES", FLIX HD
+http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/659492
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" tvg-name="" group-title="MOVIES",CINEMAX
+http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/19444
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" tvg-name="" group-title="MOVIES",CINEMAX HD
+http://fl5.moveonjoy.com/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES",CINEMAX WEST
+https://fl3.moveonjoy.com/CINEMAX_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES",CINEMAX MOREMAX
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES", CRAVE 1
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES", CRAVE 2
+https://fl3.moveonjoy.com/CRAVE_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES", CRAVE 3
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES", CRAVE 4
+https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb7xyno3bu9Bhw4y-UpuamKYFGud4qq5bUADFzWBh28l_sJ0AY" group-title="MOVIES", DOUYU MOVIES
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+
+#EXTINF:-1 group-title="MOVIES", EPIX 
+https://fl3.moveonjoy.com/EPIX/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES", EPIX 2
+https://fl3.moveonjoy.com/EPIX_2/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES" , EPIX HITS
+https://fl3.moveonjoy.com/EPIX_HITS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" tvg-name="" group-title="MOVIES" ,FX East
+https://fl3.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1  tvg-logo="" tvg-name="" group-title="MOVIES" , FX 
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/15918.ts?thanos1975
+
+#EXTINF:-1  tvg-logo="" tvg-name="" group-title="MOVIES" , FXX
+https://fl2.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1  tvg-logo="" tvg-name="" group-title="MOVIES" , HALLMARK CHANNEL
+https://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" tvg-name="" group-title="MOVIES" , HBO GO
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/15924.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" tvg-name="" group-title="MOVIES" , HBO SD
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" tvg-name="" group-title="MOVIES" , HBO BCK
+http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/14293
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" tvg-name="" group-title="MOVIES" , HBO 
+https://raw.githubusercontent.com/escapesz/esc/main/tv1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/XvW8ZCZs/Daco-4997049.png" tvg-name="HBO HD" group-title="MOVIES", HBO HD
+https://fl5.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , HBO+
+http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/146981
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" ,HBO Comedy
+https://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" tvg-name="" group-title="MOVIES" , HBO 2
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" tvg-name="" group-title="MOVIES" , HBO 2 west
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" tvg-name="" group-title="MOVIES" ,HBO Family HD
+http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/19548
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" tvg-name="HBO Family" group-title="MOVIES" ,HBO Family
+https://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://int.klcis.cc/img/hbo-zone-hd-live-stream.png" tvg-name="HBO ZONE HD" group-title="MOVIES" , HBO ZONE HD
+https://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="" group-title="MOVIES" , HBO Signature
+http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/500221948
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" ,HBO Hits
+http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/19455
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" ,TNT
+https://fl2.moveonjoy.com/TNT/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" ,TOONAMI AFTERMATH
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png" tvg-name="" group-title="MOVIES" ,SONY Movies
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" ,SONY PIX
+http://31.43.191.155:8080/live/VIP0118171178987462/cf22e1647a21/7317.ts?token=TxBbUEFZGgNDXQhUAwQCWw8HUgRUVwEJAlRWBwMKXVVXAFJTBwlbWwIbFRREQRFcVwtsWFNECwNVAVABGRoQElFAbFhWEwIbUwgNDw8CQRUUElpcUkQLAVYFVgIBAFVQBh4RQVtVGgNDCg0BBQRBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDBUHUwEERB8TVAlEXhVFHRQPGiw1Fh4RVEpFXVcSUFZYFQ9BTUVEHxNeFW5CBEQQRFBZCARGEAkTAhMUGwxYQWlUWg1XUwVHWFgIQhJbFVUUGRoIDlpbR15AbkhQBRsDFAQBVQoPRE4=
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , Hit Movies
+http://iptvid.my.id/avc/ningning111/10232002/hitsmovie.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" tvg-name="" group-title="MOVIES" , STAR MOVIES HD
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/659476
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" tvg-name="" group-title="MOVIES" , STAR MOVIES HD1
+http://supersonictv.live:8080/443870/997140/85549
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" tvg-name="" group-title="MOVIES" , STAR MOVIES 
+http://119.152.240.15:8001/play/a0i0/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo= tvg-name="" group-title="MOVIES" , MBC MAX
+http://119.152.240.15:8001/play/a01n/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES"  , STAR MOVIES SELECT
+http://119.152.240.15:8001/play/a0i1/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES"  , STAR MOVIES SELECT 1
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/659504
+
+#EXTINF:-1 group-title="MOVIES"  , TAP ACTION FLIX
+http://23.227.140.75:3050/live/irving124@gmail.com/fVnh6hEzYF/558748.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tv4g-name="" group-title="MOVIES" ,SHOWTIME
+https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tv4g-name="" group-title="MOVIES" ,SHOWTIME WEST
+https://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tv4g-name="" group-title="MOVIES" ,SHOWTIME NEXT
+https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+
+#EK-MOXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" ,SHOWTIME 2
+https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" ,SHOWTIME EXTREME
+https://fl3.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" ,SHOWTIME WOMEN
+https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , SYFY
+http://fl5.moveonjoy.com/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , SYFY
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:19:36:06&stream=45476&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , STARZ
+http://fl5.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , STARZ EDGE
+https://fl3.moveonjoy.com/STARZ_EDGE/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , STARZ ENCOREACTION
+https://fl3.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , STARZ COMEDY
+http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , STARZ WEST
+https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , STARMAX
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MOV1
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/15906.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MOV2
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/15908.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MOV3
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/15913.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MOV4
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/15914.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MOV5
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/15915.ts?thanos1975 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MOV6
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/23343.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MOV7
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/23344.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MOV8
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/23345.ts?thanos1975 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MOV9
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/23326.ts?thanos1975 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MOV10
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/23251.ts?thanos1975
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="", SKY CINEMA ACTION FHD
+http://fortv.cc:8080/live/zacslife%40gmail.com/bCtS8mEwBe/35254.ts
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="", SKY CINEMA ACTION 
+http://familyip.vip/uk_slyMoAct/mpegts
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="", SKY CINEMA CRIME AND THRILLER
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508111
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="",SCI-FI AND HORROR
+http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508125
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="" ,Hits Movies
+http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/76037
+
+#EXTINF:-1  tvg-logo="" tvg-name="" group-title="MOVIES" ,&FLIX HD
+http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=757&deviceMac=00:1A:79:04:55:C4
+
+#EXTINF:-1  tvg-logo="" tvg-name="" group-title="MOVIES" ,ROCK ACTION
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:05:B4:EF&stream=926194&extension=ts&play_token=e0TP9JlTJc
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="", MGM+HITS
+https://fl2.moveonjoy.com/EPIX/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="", MOREMAX
+http://185.243.7.141:80/play/live.php?mac=00:1A:79:19:36:06&stream=45538&extension=ts
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="", OUTERMAX
+https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv", MyTime Movie Network East
+https://mytimeuk-rakuten-samsung.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="", PRIVE HD
+http://119.152.240.15:8001/play/a0je/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="", RAKUTEN VIKI
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" group-title="MOVIES" , Freeform East
+https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="https://m3u-editor.com/storage/channel-logos/bf022930-0da6-11ee-9a0d-659e025a2c6e/4897409/868539176.jpg" group-title="MOVIES"  , NEW K-MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tv4g-name="" group-title="MOVIES" , ZEECAFE HD K!
+http://tv.cloudcdn.me:80/live.ts?channelId=212&uid=757&deviceMac=00:1A:79:04:55:C4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" tvg-name="" group-title="MOVIES" , CELESTIAL MOVIES PINOY
+http://newlife3.wanicelife.com:8880/live/DAANM2914/y3WuUKV9h8/1718.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , HI-YAH!
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , SUNDANCE
+https://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/thumbnails/24hrfreemovies_artwork_vertical.jpg" tvg-name="" group-title="MOVIES" , 24 Hour Free Movies
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" ,THRILL
+http://xtream-ie.org/Nickflex2025/Nickflex2025/173
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" ,HITS NOW
+https://ott.djdoolky76.net/stream/iptv/hitsnow/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" tvg-name="" group-title="MOVIES" ,Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" ,TBS
+https://fl2.moveonjoy.com/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" ,COMEDY CENTRAL
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="" provider="" provider-logo="" provider-type="", Warner TV
+http://iptvid.my.id/avc/ningning111/10232002/warner.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MTV2
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/23217.ts?thanos1975
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="", FUSE
+http://212.102.60.231/FUSE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="", LMN
+http://84.17.40.25/LIFETIME_MOVIE_NETWORK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="", ION
+http://143.244.60.30/ION_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="" , ION TV
+https://fl3.moveonjoy.com/ION_TV/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="" , WOWOW CINEMA
+https://luong.utako.moe/wcinema/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="",My Time Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="", KOREAN Blockbuster
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png" group-title="MOVIES"  , KIX
+http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/90765
+
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="MOVIES"  , MOVIESPEHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" provider="" provider-logo="" provider-type="iptv", HORROR 24/7
+https://raw.githubusercontent.com/escapesz/esc/main/tv4%20horror
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="" provider="" provider-logo="" provider-type="iptv", HORROR 2 24/7 
+https://raw.githubusercontent.com/escapesz/esc/main/tv7%20horror%201
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="" provider="" provider-logo="" provider-type="", AVENGERS 24/7
+https://raw.githubusercontent.com/escapesz/esc/main/tv5%20avengers
+
+#EXTINF:-1 group-title="MOVIES"  tvg-id="" tvg-logo="" provider="" provider-logo="" provider-type="", MISSION IMPOSSIBLE
+https://raw.githubusercontent.com/escapesz/esc/main/tv16%20mission%20impossible
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baywatch-logo.svg/1280px-Baywatch-logo.svg.png" tvg-name="" group-title="MOVIES" , BAYWATCH
+https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="" provider="" provider-logo="" provider-type="", ONE PIECE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="", COOKING CHANNEL
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="", COURT TV
+http://fl3.moveonjoy.com/COURT_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="", DESTINATION AMERICA
+http://fl3.moveonjoy.com/Destination_America/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="", FYI
+http://fl5.moveonjoy.com/FYI/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="", GAME SHOW NETWORK
+http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="", TMZ
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/15932.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" tvg-name="Food Network" group-title="", FOOD NETWORK
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/23323.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Food Network" group-title="", ASIAN FOOD NETWORK
+http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/500157549
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="", COOKING CHANNEL
+http://206.212.244.26:8080/live/yE6zCZvWsg/8808243690/23339.ts?thanos1975
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="", TRAVEL XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="", REAL WILD 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+
