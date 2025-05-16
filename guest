@@ -112,8 +112,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png" tvg-name="" group-title="LOCAL",TV5
-http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/54657
+
 
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="LOCAL", ALLTV
 https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
@@ -121,17 +120,6 @@ https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=F
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" tvg-name="" group-title="LOCAL", Kapamilya Local
 https://cdn.ganbaruby23.xyz/stream/restream/kapamilyachannel/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" tvg-name="" group-title="LOCAL", Cinema One
-http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/500299955
-
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="LOCAL", PBA Rush2
-http://23.227.140.75:3050/SnoopD112/u5PTQ9mKW9/558787
-
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="LOCAL", PBA Rush
-http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/89508
-
-#EXTINF:-1 tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png" tvg-name="MYX" group-title="LOCAL", MYX
-http://thunderbolt-40gbps.com/dCfzWWmv/aecH8DBh/500299938
 
 
 
