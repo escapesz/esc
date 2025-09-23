@@ -1,15 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="starmoviesselect" tvg-name="Star Movies Select HD" tvg-logo="https://i.ibb.co/qMhSS8Fn/Chat-GPT-Image-Jul-26-2025-06-31-48-AM.png" group-title="Sneak Peek",Star Movies Select
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mitsuki-wv.b-cdn.net/license
-https://mitsuki-dash.b-cdn.net/mirror/starmoviesslect/static.mpd
 
-
-#EXTINF:-1 tvg-id="starmovies" tvg-name="Star Movies HD" tvg-logo="https://i.ibb.co/fdT3Hh9R/Chat-GPT-Image-Jul-26-2025-06-27-52-AM.png" group-title="Sneak Peek",Star Movies HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mitsuki-wv.b-cdn.net/license
-https://mitsuki-dash.b-cdn.net/mirror/starmovies/static.mpd
+#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",Local
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d922d79d9b554c29a31d5b7eace0694a:420ef31558f07c96bba045cffd50ad75
+https://abslive.akamaized.net/dash/live/2027618/anc-ph-dash/manifest.mpd
