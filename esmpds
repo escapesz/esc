@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="starmoviesselect" tvg-name="Star Movies Select HD" tvg-logo="https://i.ibb.co/qMhSS8Fn/Chat-GPT-Image-Jul-26-2025-06-31-48-AM.png" group-title="Sneak Peek",Star Movies Select
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
