@@ -7,6 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://mitsuki-wv.b-cdn.net/license
 https://mitsuki-dash.b-cdn.net/mirror/starmoviesslect/static.mpd
 
+
 #EXTINF:-1 tvg-id="starmovies" tvg-name="Star Movies HD" tvg-logo="https://i.ibb.co/fdT3Hh9R/Chat-GPT-Image-Jul-26-2025-06-27-52-AM.png" group-title="Sneak Peek",Star Movies HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
