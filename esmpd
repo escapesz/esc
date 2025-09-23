@@ -1,6 +1,15 @@
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkluDe9.png" channel-number="1" group-title="Cignal", Food Travel
+#EXTM3U
+
+#EXTINF:-1 tvg-id="starmoviesselect" tvg-name="Star Movies Select HD" tvg-logo="https://i.ibb.co/qMhSS8Fn/Chat-GPT-Image-Jul-26-2025-06-31-48-AM.png" group-title="Sneak Peek",Star Movies Select
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
-https://animax.b-cdn.net/mirror/animax/static.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mitsuki-wv.b-cdn.net/license
+https://mitsuki-dash.b-cdn.net/mirror/starmoviesslect/static.mpd
+
+#EXTINF:-1 tvg-id="starmovies" tvg-name="Star Movies HD" tvg-logo="https://i.ibb.co/fdT3Hh9R/Chat-GPT-Image-Jul-26-2025-06-27-52-AM.png" group-title="Sneak Peek",Star Movies HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mitsuki-wv.b-cdn.net/license
+https://mitsuki-dash.b-cdn.net/mirror/starmovies/static.mpd
