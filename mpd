@@ -10,10 +10,12 @@ https://abslive.akamaized.net/dash/live/2027618/anc-ph-dash/manifest.mpd
 #EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="CINEMAONE TFC" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="Local",CINEMAONE TFC
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
-#EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="STAR ACTION" tvg-logo="https://phcorner.org/attachments/images-jpeg-png.3868157/" group-title="Local",STAR ACTION
-https://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd
+EXTINF:-1 tvg-id="UK | TNT Sports 1" tvg-logo="https://m.media-amazon.com/images/G...ar_Clean_Slate/TNTSports1GB._SL170_FMpng_.png" group-title="Local",TNT Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://a129aivottlinear-a.akamaihd.../v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+
 
 #EXTM3U billed-msg="M3U PLAYLIST BY: RYANSNETCAFE"
 
