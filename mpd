@@ -7,10 +7,13 @@ https://abslive.akamaized.net/dash/live/2027618/anc-ph-dash/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
-#EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="CINEMAONE TFC" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 TFC CHANNELS",CINEMAONE TFC
+#EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="CINEMAONE TFC" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="Local",CINEMAONE TFC
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
+#EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="STAR ACTION" tvg-logo="https://phcorner.org/attachments/images-jpeg-png.3868157/" group-title="Local",STAR ACTION
+https://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd
 
 #EXTM3U billed-msg="M3U PLAYLIST BY: RYANSNETCAFE"
 
