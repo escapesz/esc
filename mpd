@@ -23,7 +23,7 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xe8
 EXTINF:-1 tvg-id="UK | TNT Sports 1" tvg-logo="https://m.media-amazon.com/images/G...ar_Clean_Slate/TNTSports1GB._SL170_FMpng_.png" group-title="Local",TNT Sports 1 HDs
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://a129aivottlinear-a.akamaihd.../v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
 #EXTM3U billed-msg="M3U PLAYLIST BY: RYANSNETCAFE"
