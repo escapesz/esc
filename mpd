@@ -25,6 +25,11 @@ EXTINF:-1 tvg-id="UK | TNT Sports 1" tvg-logo="https://m.media-amazon.com/images
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+EXTINF:-1 tvg-id="" tvg-logo="" group-title="Local",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aecd5d8e3cf8c3efa4d968c2cbc999a1:b005dcd21d24c4a37ed9b353400477a8
+https://cdn-ec-njs-10.linear-tve-smf-cla.top.comcast.net/HBO2H_HD_TVE_16733_0_8374288733703765163.mpd
+
 
 #EXTM3U billed-msg="M3U PLAYLIST BY: RYANSNETCAFE"
 
