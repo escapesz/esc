@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",ASIAN HITS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+
+
 #EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",ANC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d922d79d9b554c29a31d5b7eace0694a:420ef31558f07c96bba045cffd50ad75
