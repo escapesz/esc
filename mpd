@@ -9,7 +9,7 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",STARZ 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key= 5ebcf53fd1794237aa02af52413e0c2a:bd2f5d20887507da6f26401b1d95aeee
+#KODIPROP:inputstream.adaptive.license_key=5ebcf53fd1794237aa02af52413e0c2a:bd2f5d20887507da6f26401b1d95aeee
 https://stream.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef9474581754944303887/fe/f/crave/starz1/manifest.mpd?u=li
 
 #EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",ASIAN HITS
@@ -699,6 +699,11 @@ http://161.49.17.2:6610/001/2/ch00000090990000001252/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local", GMA 7 LOCAL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
+https://vod.nathcreqtives.com/1093/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Converge", GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
