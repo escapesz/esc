@@ -112,6 +112,11 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , STARMAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
+#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="" group-title="Local",STUDIO UNIVERSAL'
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
+https://stream.video.9c9media.com/65a655714b62d8c989ad80dc30e3035b0bfb65b41754945004845/fe/f/crave/starz2/manifest.mpd?u=li
+
 
 
 #EXTM3U billed-msg="M3U PLAYLIST BY: RYANSNETCAFE"
