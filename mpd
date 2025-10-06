@@ -112,10 +112,8 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , STARMAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="" group-title="Local",STUDIO UNIVERSAL'
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , SonyPix HD
+http://nayatv.ydns.eu:80/live/99BFB57C82171EE6A192B948981C70C9/3698.ts
 
 
 
