@@ -1,11 +1,47 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://p-img.movetv.com/cms/images/7dfdd7a658edd41fb78047843ec4453f0a2e8ca0.PNG" group-title="SLING" group-logo="https://download.logo.wine/logo/Sling_TV/Sling_TV-Logo.wine.png", NBA TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mc-ziu4j1o2ic.bunny.run/license?id=0e87a84170da4646aa90528abfcbe2a9
-https://mc-ziu4j1o2ic.bunny.run/channel/0e87a84170da4646aa90528abfcbe2a9/master.mpd
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:120
+#EXTVLCOPT:network-caching=10000000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
+#EXTINF:-1, ENTERTAINMENT | STAR MOVIES HD
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extension=ts&play_token=BRpcwJlxdl
+
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:120
+#EXTVLCOPT:network-caching=10000000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
+#EXTINF:-1, ENTERTAINMENT | STAR MOVIES SELECT
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extension=ts&play_token=I6IiF0CvFf
+
+#EXTINF:-1, SPORTS | ABC
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15956.ts?thanos1975
+#EXTINF:-1, SPORTS | NBA TV
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/22501.ts?thanos1975
+#EXTINF:-1, SPORTS | ESPN
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15951.ts?thanos1975
+#EXTINF:-1, SPORTS | ESPN 2
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15950.ts?thanos1975
+#EXTINF:-1, SPORTS | ESPN NEWS
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15952.ts?thanos1975
+#EXTINF:-1, SPORTS | ESPN U
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15949.ts?thanos1975
+#EXTINF:-1, SPORTS | TNT HD
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15955.ts?thanos1975
+#EXTINF:-1, SPORTS | TSN 1
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15929.ts?thanos1975
+#EXTINF:-1, SPORTS | TSN 2
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15928.ts?thanos1975
+#EXTINF:-1, SPORTS | TSN 3
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15927.ts?thanos1975
+#EXTINF:-1, SPORTS | TSN 5
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15925.ts?thanos1975
+#EXTINF:-1, SPORTS | TRU TV
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
+#EXTINF:-1, SPORTS | SPORTSNET ONE HD
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
 #EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",STARZ 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
