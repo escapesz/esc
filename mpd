@@ -1,27 +1,5 @@
 #EXTM3U
 
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:120
-#EXTVLCOPT:network-caching=10000000
-#EXTVLCOPT:http-reconnect=true
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
-#EXTINF:-1, ENTERTAINMENT | SONY PIX HD
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441205&extension=ts&play_token=4hSc0OdPLE
-
-#EXTINF:-1 tvg-id="starmoviesselect" tvg-name="Star Movies Select HD" tvg-logo="https://i.ibb.co/qMhSS8Fn/Chat-GPT-Image-Jul-26-2025-06-31-48-AM.png" group-title="Sneak Peek",Star Movies Select
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mitsuki-wv.b-cdn.net/license
-https://mitsuki-dash.b-cdn.net/mirror/starmoviesslect/static.mpd
-
-#EXTINF:-1 tvg-id="starmovies" tvg-name="Star Movies HD" tvg-logo="https://i.ibb.co/fdT3Hh9R/Chat-GPT-Image-Jul-26-2025-06-27-52-AM.png" group-title="Sneak Peek",Star Movies HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mitsuki-wv.b-cdn.net/license
-https://mitsuki-dash.b-cdn.net/mirror/starmovies/static.mpd
-
 #EXTINF:-1, ABC
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15956.ts?thanos1975
 #EXTINF:-1, NBA TV
@@ -49,10 +27,16 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1,  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1,  STAR MOVIES 
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extension=ts&play_token=BRpcwJlxdl
+
+#EXTINF:-1,  STARMOVIES SELECT 
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extension=ts&play_token=I6IiF0CvFf
+
 #EXTINF:-1,  STARMOVIES HD
 http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1169.ts
 
-#EXTINF:-1,  STARMOVIES SELECT 
+#EXTINF:-1,  STARMOVIES SELECT HD 
 http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/745.ts
 
 #EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",STARZ 2
@@ -148,8 +132,6 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="Local", DUBAI ONE
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" tvg-name="" group-title="MOVIES",AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
@@ -159,9 +141,17 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , STARMAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , SonyPix HD
-http://nayatv.ydns.eu:80/live/99BFB57C82171EE6A192B948981C70C9/3698.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="LOCAL" , GMA 7
+https://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
 
+#EXTINF:-1, BEIN SPORTS 2
+http://51.89.148.37:8080/catena-9-101-streamer-bein_sports_2_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
+#EXTINF:-1, SONY PIX HD
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441205&extension=ts&play_token=4hSc0OdPLE
+
+#EXTINF:-1, SINE MANILA
+http://cf.10159875.cloud:80/play/live.php?mac=00:1A:79:12:5A:DC&stream=440660&extension=ts&play_token=ebD0A4JSHI
 
 
 #EXTM3U billed-msg="M3U PLAYLIST BY: RYANSNETCAFE"
