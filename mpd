@@ -63,9 +63,6 @@ https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 #KODIPROP:inputstream.adaptive.license_key=d922d79d9b554c29a31d5b7eace0694a:420ef31558f07c96bba045cffd50ad75
 https://abslive.akamaized.net/dash/live/2027618/anc-ph-dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="" group-title="Local", NBA 1
-https://cdn.viggle.ai/temp/20251115/1763176811252-5d7a46c4-0852-44bf-b814-4e018d705465.png?Expires=1763178611&KeyName=vigglecloudcdn2&Signature=ratPbmmjdwadywTXJ4t1TrK16gM=
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
 #EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="CINEMAONE TFC" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="Local",CINEMAONE TFC
