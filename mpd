@@ -33,12 +33,6 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extens
 #EXTINF:-1,  STARMOVIES SELECT 
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extension=ts&play_token=I6IiF0CvFf
 
-#EXTINF:-1,  STARMOVIES HD
-http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1169.ts
-
-#EXTINF:-1,  STARMOVIES SELECT HD 
-http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/745.ts
-
 #EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",STARZ 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
