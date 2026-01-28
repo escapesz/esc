@@ -140,7 +140,7 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="LOCAL" , GMA 7
-https://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
 
 #EXTINF:-1, BEIN SPORTS 2
 http://51.89.148.37:8080/catena-9-101-streamer-bein_sports_2_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
