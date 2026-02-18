@@ -33,28 +33,13 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extens
 #EXTINF:-1,  STARMOVIES SELECT 
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extension=ts&play_token=I6IiF0CvFf
 
-#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",STARZ 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
-https://stream.video.9c9media.com/65a655714b62d8c989ad80dc30e3035b0bfb65b41754945004845/fe/f/crave/starz2/manifest.mpd?u=li
-
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Local", HBO LOCAL
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-
-#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",STARZ 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ebcf53fd1794237aa02af52413e0c2a:bd2f5d20887507da6f26401b1d95aeee
-https://stream.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef9474581754944303887/fe/f/crave/starz1/manifest.mpd?u=li
 
 #EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",ASIAN HITS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
-
-#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="" group-title="Local",ACTIONMAX
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
-https://a204aivottlinear-a.akamaihd.../uzw5jfu8dj/out/v1/de55bcd3afe843b98765232fd6
 
 #EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",ANC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
