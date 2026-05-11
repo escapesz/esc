@@ -166,6 +166,12 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441205&extens
 #EXTINF:-1, SINE MANILA
 http://cf.10159875.cloud:80/play/live.php?mac=00:1A:79:12:5A:DC&stream=440660&extension=ts&play_token=ebD0A4JSHI
 
+#EXTINF:-1, DAZN 1
+https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd
+
+#EXTINF:-1, DAZN 2
+https://d1yi40sjj0ca0v.cloudfront.net/TVD212/index.mpd
+
 
 #EXTM3U billed-msg="M3U PLAYLIST BY: RYANSNETCAFE"
 
