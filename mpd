@@ -54,8 +54,11 @@ https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/5sxuux529k/
 #KODIPROP:inputstream.adaptive.license_key=b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd
 
+#EXTINF:-1,  STARMOVIES 
+https://starmovies.gletv0725.workers.dev/starmovies.m3u8
+
 #EXTINF:-1,  STARMOVIES SELECT 
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extension=ts&play_token=I6IiF0CvFf
+https://starmovies.gletv0725.workers.dev/starmoviesselect.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Local", HBO LOCAL
 http://23.237.104.106:8080/USA_HBO/index.m3u8
