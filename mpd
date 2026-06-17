@@ -27,13 +27,82 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1,  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
-#EXTINF:-1 tvg-id="AstroShowcase" group-title="as" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png",413 Astro Showcase
+#EXTINF:-1,  Football World Cup 2026 (T SPORTS)
+http://103.158.133.62:8080/live/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
+http://103.157.248.140:8000/play/a00i/index.m3u8
+
+XTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="",Star Sports 3
+http://103.157.248.140:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png",Star Sports Select 1 HD 
+http://103.157.248.140:8000/play/a00o/index.m3u8
+
+#EXTINF:-1,SONY MAX SD
+http://103.158.133.62:8080/sonymax/index.m3u8
+
+#EXTINF:-1,SONY MAX 1
+http://live.balajibroadband.com:3500/live/3418.m3u8
+
+#EXTINF:-1,STAR GOLD THRILLS
+http://103.157.248.140:8000/play/a00b/index.m3u8
+
+#EXTINF:-1, STAR GOLD ROMANCE
+http://103.157.248.140:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="watcho",Animal Planet HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
+https://login.bheem.tv/bpk-tv/22052/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
+
+#EXTINF:-1, Fox Sports 501 HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/197185.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",CIGNAL TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", DSPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="Sports", PTV Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",SporTV 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026 (FOX SPORTS)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png",413 Astro Showcase
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroShowtime" group-title="as" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowtime.png",411 Astro Showtime
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowtime.png",411 Astro Showtime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7RJVdgSDgSHZlvDXg3nKow","kid":"aZ-4LHCn7Cl_M6pEI7q1EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -63,24 +132,29 @@ https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/5sxuux529k/
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local", STAR MOVIES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd
-
 #EXTINF:-1,  STARMOVIES 
-https://starmovies.gletv0725.workers.dev/starmovies.m3u8
+http://66.102.126.10:8000/play/a021/index.m3u8
 
-#EXTINF:-1,  STARMOVIES SELECT 
-https://starmovies.gletv0725.workers.dev/starmoviesselect.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="",Star Movies Select HD
+http://66.102.126.10:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="",Star Movies Select SD
+http://103.157.248.140:8000/play/a01s/index.m3u8
 
 #EXTINF:-1,  MOVIESPEHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Local", HBO LOCAL
 http://23.237.104.106:8080/USA_HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlw-Kq3yru8w7W1UBKBHMRpskcS4oi3sWt0G7moHIIyVvmHGN17QAXFmDh5A&s" group-title="", EUROSPORT 1
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoBgMQ2Ia0mhn7QY_hV_5us_kfXCxY5tX6EjY2aG9tYBsYOTz7iFwvAiWZw&s" group-title="", EUROSPORT 2 
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="espn3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/330px-ESPN3_logo.svg.png" group-title="",ESPN 3
+http://79.127.243.211:14510/
 
 #EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",EURO SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -195,11 +269,16 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441205&extens
 #EXTINF:-1, SINE MANILA
 http://cf.10159875.cloud:80/play/live.php?mac=00:1A:79:12:5A:DC&stream=440660&extension=ts&play_token=ebD0A4JSHI
 
-#EXTINF:-1, DAZN 1
-https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd
+#EXTINF:-1 group-title="#.PREMIUM SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s" , DAZN FAST+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
-#EXTINF:-1, DAZN 2
-https://d1yi40sjj0ca0v.cloudfront.net/TVD212/index.mpd
+#EXTINF:-1, DAZN COMBAT
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
+#EXTINF:-1, DAZN RINGSIDE
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 
 
 #EXTM3U billed-msg="M3U PLAYLIST BY: RYANSNETCAFE"
