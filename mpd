@@ -30,12 +30,12 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 #EXTINF:-1 tvg-id="Showcase.Canada.ca" tvg-logo="showcase.png" group-title="Canada",Showcase 🇨🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c99d8404fee24f907870cbf212924967:03591856cc3dd05a1e297de8ecd422f8
-https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml/.mpd
+https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml.mpd
 
 #EXTINF:-1 tvg-id="W.Network.Canada.East.(WTN).ca" tvg-logo="wnetwork.png" group-title="Canada",W Network 🇨🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c7ece0bc4b1cdbe78497cb85e4c268e:e7f77a1b82fb8ea8c06e2aa886c521ca
-https://live.corusdigitaldev.com/groupd/live/8cace0db-7887-4cb3-988d-58594cda4697/corus-wnetwork.isml/.mpd
+https://live.corusdigitaldev.com/groupd/live/8cace0db-7887-4cb3-988d-58594cda4697/corus-wnetwork.isml.mpd
 
 #EXTINF:-1, InTravel (1080p)
 #EXTVLCOPT:network-caching=1000
