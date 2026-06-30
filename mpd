@@ -67,6 +67,9 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
 #EXTINF:-1, Fox Sports 501 HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/197185.m3u8
 
+#EXTINF:-1, WORLD CUP 2026
+https://wccdn.djdoolky76.net/stream/wctv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="",FIFA WC 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
