@@ -27,6 +27,12 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="SPORTS", BELLATOR
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="MOVIES", 24 HOUR FREE MOVIES
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
+
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" group-title="SPORTS", Sportsnet 360
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
 
