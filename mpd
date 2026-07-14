@@ -27,6 +27,12 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="SPORTS", UFC CHANNEL
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/61769
+
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="SPORTS", UFC TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="SPORTS", BELLATOR
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
