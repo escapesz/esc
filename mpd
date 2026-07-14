@@ -27,6 +27,9 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1,  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1,  CINEMA MO GLOBAL HD
+http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
+
 #EXTINF:-1,  Aniplus HD
 http://96.62.228.105:9981/stream/channelid/1481119990?profile=lossless
 
