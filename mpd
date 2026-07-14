@@ -27,6 +27,9 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", NBA TV HD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2470.ts
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", CINEMA MO GLOBAL HD
 http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 
