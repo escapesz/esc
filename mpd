@@ -1,39 +1,39 @@
 #EXTM3U
 
-#EXTINF:-1, ABC
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", ABC
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15956.ts?thanos1975
-#EXTINF:-1, NBA TV
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", NBA TV
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/22501.ts?thanos1975
-#EXTINF:-1,  ESPN
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", ESPN
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15951.ts?thanos1975
-#EXTINF:-1,  ESPN 2
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN 2
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15950.ts?thanos1975
-#EXTINF:-1,  ESPN NEWS
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN NEWS
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15952.ts?thanos1975
-#EXTINF:-1,  ESPN U
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN U
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15949.ts?thanos1975
-#EXTINF:-1,  TNT HD
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",  TNT HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15955.ts?thanos1975
-#EXTINF:-1,  TSN 1
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 1
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15929.ts?thanos1975
-#EXTINF:-1,  TSN 2
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 2
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15928.ts?thanos1975
-#EXTINF:-1,  TSN 3
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 3
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15927.ts?thanos1975
-#EXTINF:-1,  TSN 5
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 5
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15925.ts?thanos1975
-#EXTINF:-1,  TRU TV
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",  TRU TV
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
-#EXTINF:-1,  SPORTSNET ONE HD
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
-#EXTINF:-1,  CINEMA MO GLOBAL HD
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", CINEMA MO GLOBAL HD
 http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 
-#EXTINF:-1,  Aniplus HD
+#EXTINF:-1 tvg-logo="" group-title="KIDS",  Aniplus HD
 http://96.62.228.105:9981/stream/channelid/1481119990?profile=lossless
 
-#EXTINF:-1,SONY MAX 1
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",SONY MAX 1
 http://live.balajibroadband.com:3500/live/3418.m3u8
 
 #EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="",Animal Planet HD
