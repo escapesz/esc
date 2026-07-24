@@ -54,9 +54,6 @@ http://206.212.244.63/113/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MOVIES", HBO LOCAL
 http://40.160.24.53/HBO_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107455_white_360w_270h.png" group-title="SPORTS", DIRECTV Sports
-http://190.108.83.69:8000/play/a05w/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="MOVIES", STARZ
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3964.ts
 
@@ -68,9 +65,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2470.ts
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", CINEMA MO GLOBAL HD
 http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KIDS",  Aniplus HD
-http://96.62.228.105:9981/stream/channelid/1481119990?profile=lossless
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",SONY MAX 1
 http://live.balajibroadband.com:3500/live/3418.m3u8
