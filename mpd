@@ -27,7 +27,7 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
-#EXTINF:-1 tvg-logo="" group-title="",WORLD CUP
+#EXTINF:-1 tvg-logo="" group-title="", HBO EXTREME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=761160036506af26092b33aa78cf320c:f4e90d977d91cd5be891c2a50a11f979
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(c0d08eba-2d62-97ad-fbc6-821201567186)/manifest.mpd
