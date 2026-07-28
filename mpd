@@ -27,6 +27,18 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", AZTEC CINEMA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbac4c7d3d0f47a319e638e65c985997:de8dd6acc1d3cdb1994720ee41f43417
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(aztecacinemahd)/variant.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", A&E HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5009add9e5b2cd627ac6ef8aa6db9123:3448834b1b496ed26e9727983c080844
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(aehd)/variant.mpd
+
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO SIGNATURE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7aeefc391f09edf06ba2b039e8e8c439:e322483381692e91ff8927e518a75ea0
