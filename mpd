@@ -27,6 +27,12 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", TNT SERIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af697afe95d1a333a845aee5ba676946:c57bdecf3169b78e51865403c6e723bd
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd
+
+
 #EXTINF:-1 tvg-logo="" group-title="ENT", HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d494c9381e506a93e78a022219a927c:5b1d996b5cde3c6051062da59886740d
