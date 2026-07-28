@@ -27,6 +27,12 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", FUEL TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b8434c3b14b5b102b066d211d2fed1b:824bc2299209b4116926abe83cae0c15
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(fueltvhd)/variant.mpd
+
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", AZTEC CINEMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbac4c7d3d0f47a319e638e65c985997:de8dd6acc1d3cdb1994720ee41f43417
