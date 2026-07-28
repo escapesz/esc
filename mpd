@@ -27,6 +27,21 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", UNIVERSAL PREMIERE WEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79dc87836d93d0fb7c1bb10e301bab82:8b0e2a78cad3b2fe84b116adb0a9d9ef
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(warner_channel)/variant.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", UNIVERSAL PREMIERE WEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=115d8a1195650f9dea6fa2d87e135418:90e1a8aacacbee7f35ab30fea1c4ab4e
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(universalpremierewest)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", UNIVERSAL STUDIO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff583851013fa7fb7abeaa8d0e762a41:ad289e896926729a4e7559bdaa04e537
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(studio_universal)/variant.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", CARTOONITO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd2c2f31defc5f22f031365d3333c880:f0597b0c74656c330dd6ccd50dfc5464
