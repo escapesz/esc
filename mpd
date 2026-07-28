@@ -27,7 +27,7 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", UNIVERSAL PREMIERE WEST
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", WARNER CH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79dc87836d93d0fb7c1bb10e301bab82:8b0e2a78cad3b2fe84b116adb0a9d9ef
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(warner_channel)/variant.mpd
