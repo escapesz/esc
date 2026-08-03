@@ -30,7 +30,7 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", TNT SERIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af697afe95d1a333a845aee5ba676946:c57bdecf3169b78e51865403c6e723bd
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd
+https://dish-arg.ses.ioriver-vcdn.net/Content/DASH/Live/channel(tntseries)/variant.mpd
 
 
 #EXTINF:-1 tvg-logo="" group-title="ENT", HGTV
@@ -42,7 +42,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(hgtv)/variant.mpd
 #EXTINF:-1 tvg-logo="" group-title="ENT", FUEL TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b8434c3b14b5b102b066d211d2fed1b:824bc2299209b4116926abe83cae0c15
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(fueltvhd)/variant.mpd
+https://dish-arg.ses.ioriver-vcdn.net/Content/DASH/Live/channel(fueltvhd)/variant.mpd
 
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", AZTEC CINEMA HD
