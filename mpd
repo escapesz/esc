@@ -27,17 +27,18 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="SPORTS", ACC Network
+http://23.237.104.106:8080/USA_ACCN/mpegts
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", TNT SERIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af697afe95d1a333a845aee5ba676946:c57bdecf3169b78e51865403c6e723bd
 https://dish-arg.ses.ioriver-vcdn.net/Content/DASH/Live/channel(tntseries)/variant.mpd
 
-
 #EXTINF:-1 tvg-logo="" group-title="ENT", HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d494c9381e506a93e78a022219a927c:5b1d996b5cde3c6051062da59886740d
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(hgtv)/variant.mpd
-
 
 #EXTINF:-1 tvg-logo="" group-title="ENT", FUEL TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -118,6 +119,9 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15915.ts?thanos1975
 #EXTINF:-1  tvg-logo="" tvg-name="" group-title="MOVIES" , FX 
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" tvg-name="" group-title="MOVIES" , FXX 
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="SPORTS", UFC CHANNEL
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/61769
 
@@ -142,8 +146,11 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="", MOTORTREND
 http://206.212.244.63/113/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MOVIES", HBO LOCAL
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MOVIES", HBO EAST
 http://40.160.24.53/HBO_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="MOVIES", HBO COMDEY
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="MOVIES", STARZ
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3964.ts
