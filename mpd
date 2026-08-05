@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", ABC
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15956.ts?thanos1975
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", NBA TV
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", NBA TV LOCAL
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/22501.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", ESPN
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15951.ts?thanos1975
@@ -144,7 +144,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2416.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="", MOTORTREND
-http://206.212.244.63/113/index.m3u8
+https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MOVIES", HBO EAST
 http://40.160.24.53/HBO_HD/index.m3u8
@@ -152,14 +152,36 @@ http://40.160.24.53/HBO_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="MOVIES", HBO COMDEY
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
 
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="MOVIES", HBO ZONE
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="MOVIES", STARZ
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3964.ts
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10178_dark_360w_270h.png" group-title="MOVIES", STARZ ENCORE
+http://40.160.24.55/STARZ_ENCORE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67236_dark_360w_270h.pngg" group-title="MOVIES", STARZ CINEMA
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="MOVIES", SYFY
 http://40.160.24.55/SYFY/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="ENT", NAT GEO WILD
+http://40.160.24.53/NAT_GEO_WILD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENT", NAT GEO 
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", NBA TV HD
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2470.ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", NBA TV LOCAL
+http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", NBC SPORTS
+http://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", CINEMA MO GLOBAL HD
 http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
