@@ -51,11 +51,8 @@ https://dish-arg.ses.ioriver-vcdn.net/Content/DASH/Live/channel(fueltvhd)/varian
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(aztecacinemahd)/variant.mpd
 
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", A&E HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5009add9e5b2cd627ac6ef8aa6db9123:3448834b1b496ed26e9727983c080844
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(aehd)/variant.mpd
-
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="MOVIES", A&E HD
+http://23.239.31.26:8989/aande/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO SIGNATURE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
