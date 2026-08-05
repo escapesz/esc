@@ -45,30 +45,8 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(hgtv)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_key=8b8434c3b14b5b102b066d211d2fed1b:824bc2299209b4116926abe83cae0c15
 https://dish-arg.ses.ioriver-vcdn.net/Content/DASH/Live/channel(fueltvhd)/variant.mpd
 
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", AZTEC CINEMA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbac4c7d3d0f47a319e638e65c985997:de8dd6acc1d3cdb1994720ee41f43417
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(aztecacinemahd)/variant.mpd
-
-
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="MOVIES", A&E HD
 http://23.239.31.26:8989/aande/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO SIGNATURE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aeefc391f09edf06ba2b039e8e8c439:e322483381692e91ff8927e518a75ea0
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(fdde0576-5d28-3fd0-68f9-71719e2cccfe)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO FAMILY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=23d5d6a7be1238a89b59cb79ed2ab349:596508e11a62a8ebb20f67da8852e8f1
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(462e4822-6eac-91a1-f974-311a8ed1b829)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9aaf6aa38c694e24b60787618a0f3793:4cee5d8856488e593964a082562db4ff
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(59866a3c-83ad-17d1-3025-d9f794babca9)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -99,16 +77,6 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(studio_universal)/varia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd2c2f31defc5f22f031365d3333c880:f0597b0c74656c330dd6ccd50dfc5464
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(cartoonitohd)/variant.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO PLUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54c5643771d1eb28857f6d6cb7947aa8:caa44ad81c2175a711fd4f3c646a9950
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(e8dd8035-5c7e-f820-eec5-65a93cc4b912)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO EXTREME
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=761160036506af26092b33aa78cf320c:f4e90d977d91cd5be891c2a50a11f979
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(c0d08eba-2d62-97ad-fbc6-821201567186)/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MOV8
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23345.ts?thanos1975 
