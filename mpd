@@ -27,13 +27,50 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-logo="" group-title="KIDS", TOM N JERRY
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="SPORTS", ACC Network
 http://23.237.104.106:8080/USA_ACCN/mpegts
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", TNT SERIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af697afe95d1a333a845aee5ba676946:c57bdecf3169b78e51865403c6e723bd
-https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd
+#EXTINF:-1 tvg-logo="" group-title="KIDS", NICK JR LOCAL
+http://40.160.24.55/NICK_JR/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS", NICKELODEON
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS", ONE AMERICA NEWS
+http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENT", OUTDOOR CHANNEL
+http://23.237.104.106:8080/USA_OUTDOOR/mpegts
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", MGM+
+https://gpuserver3.tier1streams.com/EPIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", OVATION
+http://40.160.24.55/OVATION/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENT", OXYGEN
+http://40.160.24.55/OXYGEN/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENT", USA PARAMOUNT NETWORK
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENT", USA REELZ
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", PARAMOUNT SHOWTIME
+http://40.160.24.55/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", SHOWTIME 2 HD
+http://40.160.24.55/SHOWTIME_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", SHOWTIME EXTREME HD
+http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", SHOWTIME FAMILY ZONE HD
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENT", HGTV LOCCL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -130,6 +167,8 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="MOVIES", SYFY
 http://40.160.24.55/SYFY/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="MOVIES", SYFY HD
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENT", NAT GEO WILD
 http://40.160.24.53/NAT_GEO_WILD/index.m3u8
