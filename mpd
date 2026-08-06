@@ -85,11 +85,6 @@ http://23.239.31.26:8989/aande/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=cec01f73570fd6820a31d386b39b731d:86e27a11d47e800fb903dc07d1f02b7e
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(a4bb2449-4f30-142f-1e65-d757b3d53b78)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", AMC SERIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe371e8ac45e6f11927f8a91abf3f268:e5bf0822bd2eaaf5e5c466c894c8ed6e
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(amcseries)/variant.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", WARNER CH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79dc87836d93d0fb7c1bb10e301bab82:8b0e2a78cad3b2fe84b116adb0a9d9ef
