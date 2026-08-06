@@ -27,6 +27,9 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", ALLTV LOCAL
+https://streams.comclark.com/pknsd/alltv/l_107908_11430642_31958.ts?nimblesessionid=95429499
+
 #EXTINF:-1 tvg-logo="" group-title="KIDS", TOM N JERRY
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
