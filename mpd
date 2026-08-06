@@ -33,9 +33,9 @@ http://23.237.104.106:8080/USA_ACCN/mpegts
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", TNT SERIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af697afe95d1a333a845aee5ba676946:c57bdecf3169b78e51865403c6e723bd
- https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd
+https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="ENT", HGTV HD
+#EXTINF:-1 tvg-logo="" group-title="ENT", HGTV LOCCL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d494c9381e506a93e78a022219a927c:5b1d996b5cde3c6051062da59886740d
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(hgtv)/variant.mpd
