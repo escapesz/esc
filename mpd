@@ -27,7 +27,7 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
-#EXTINF:-1 group-title="", Universal Premiere
+#EXTINF:-1 group-title="new", Universal Premiere
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd"}
 https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
