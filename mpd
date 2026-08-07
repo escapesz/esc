@@ -27,6 +27,11 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 group-title="", Universal Premiere
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd"}
+https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
+
 EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png", HBO Family HDDD
 KODIPROP:inputstream.adaptive.license_type=clearkey
 KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
@@ -37,7 +42,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 #EXTINF:-1 tvg-logo="" group-title="KIDS", TOM N JERRY
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="SPORTS", ACC Network
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", ACC Network
 http://23.237.104.106:8080/USA_ACCN/mpegts
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS", NICK JR LOCAL
@@ -79,7 +84,7 @@ http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", SHOWTIME FAMILY ZONE HD
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="MOVIES", A&E HD
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", A&E HD
 http://23.239.31.26:8989/aande/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO SD
@@ -116,13 +121,13 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15915.ts?thanos1975
 #EXTINF:-1  tvg-logo="" tvg-name="" group-title="MOVIES" , FX 
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" tvg-name="" group-title="MOVIES" , FXX 
+#EXTINF:-1  tvg-logo="" tvg-name="" group-title="MOVIES" , FXX 
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="SPORTS", UFC CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", UFC CHANNEL
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/61769
 
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="SPORTS", UFC TV
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", UFC TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="SPORTS", BELLATOR
@@ -131,40 +136,40 @@ https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="MOVIES", 24 HOUR FREE MOVIES
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" group-title="SPORTS", Sportsnet 360
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Sportsnet 360
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="MOVIES",  SHOWTIME
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",  SHOWTIME
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2416.ts
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="MOVIES",  SHOWTIME EXTREME
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",  SHOWTIME EXTREME
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="", MOTORTREND
+#EXTINF:-1 tvg-logo="" group-title="", MOTORTREND
 https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MOVIES", HBO EAST
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO EAST
 http://40.160.24.53/HBO_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="MOVIES", HBO COMDEY
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO COMDEY
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="MOVIES", HBO ZONE
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO ZONE
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="MOVIES", STARZ
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", STARZ
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3964.ts
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10178_dark_360w_270h.png" group-title="MOVIES", STARZ ENCORE
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", STARZ ENCORE
 http://40.160.24.55/STARZ_ENCORE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67236_dark_360w_270h.pngg" group-title="MOVIES", STARZ CINEMA
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", STARZ CINEMA
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="MOVIES", SYFY
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", SYFY
 http://40.160.24.55/SYFY/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="MOVIES", SYFY HD
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", SYFY HD
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENT", NAT GEO WILD
@@ -188,7 +193,7 @@ http://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/ind
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",SONY MAX 1
 http://live.balajibroadband.com:3500/live/3418.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="",Animal Planet HD
+#EXTINF:-1 tvg-logo="" group-title="",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
 https://login.bheem.tv/bpk-tv/22052/output/index.mpd
@@ -211,7 +216,7 @@ https://wccdn.djdoolky76.net/stream/wctv/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="SPORTS", FIFA WC 2026 DSPORTS FHD
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", FIFA WC 2026 DSPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
