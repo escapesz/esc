@@ -27,16 +27,30 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
-#EXTINF:-1 group-title="new", Universal Premiere
+#EXTINF:-1 group-title="MOVIES", Universal Reality
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"25261b6f75ce58bc9be5e25b438e2af7":"dd8f7f46cb39d619f63a1b01ecdd0b78","e7e60190bf265d0db1090b8ed7c06c3a":"ed2a63ff6b077418967882439a2ab12a","5d494197700f5d238b86c9ef2c40cb1a":"171a6b6ba3b7acd781085c03036572e7"}
+https://unipluslivedash.akamaized.net/universalrealityt0/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES", Universal Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5f329c4b801a5edb9a5aaf814d116b0e":"71a0806dd2999d5dcbddbdf7dcebe574","62280a1fea50530c8a1a0c3033697693":"d62597f8fb6e7a1a84584fa071ef8834","3317a330c1795a2395f35f64966c7f8e":"848631ea8ef0c2492f85008f443ba7ad"}
+https://unipluslivedash.akamaized.net/universalcomedyt0/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES", Universal Crime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d32ac134b9db51b3b9b5b3159dbd40a4":"7d9adfe9370b15ad52e128a1c1a2ff2e","1975774dfcbe5243a2b0ceaea09e3b91":"7c408bd106bf8bdf6c9fdde9bf35f6fc","4506a08548a4594bb6035540a1a4875c":"4b4a1be7658f95a60f0a112ecbc05e6c"}
+https://unipluslivedash.akamaized.net/universalcrimet0/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES", Universal Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"693c14512fe754679776b9352fa84fa2":"5c04eb44db6dfabcbb73be28408e831d","47b9ccb70c5c512f9195712d11923df6":"8a7dba41bad7d0f2a9ebecd3eaf9c2ff","e97732b12ed754588cd3e01e3e6ea7ee":"494c340693c70e21b4490c2ec6430627"}
+https://unipluslivedash.akamaized.net/universalcinemat0/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES", Universal Premiere
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd"}
 https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
-
-EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="", HBO Family HDDD
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
-
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS", TOM N JERRY
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
@@ -83,30 +97,10 @@ http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", A&E HD
 http://23.239.31.26:8989/aande/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cec01f73570fd6820a31d386b39b731d:86e27a11d47e800fb903dc07d1f02b7e
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(a4bb2449-4f30-142f-1e65-d757b3d53b78)/manifest.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", WARNER CH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4a8d5319e624f078b156d3c7a5e2049:cee9422b4a40d85589f36f1d76fb144f
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_warnerhd/default/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", UNIVERSAL PREMIERE WEST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=115d8a1195650f9dea6fa2d87e135418:90e1a8aacacbee7f35ab30fea1c4ab4e
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(universalpremierewest)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", UNIVERSAL STUDIO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff583851013fa7fb7abeaa8d0e762a41:ad289e896926729a4e7559bdaa04e537
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(studio_universal)/variant.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="KIDS", CARTOONITO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dd2c2f31defc5f22f031365d3333c880:f0597b0c74656c330dd6ccd50dfc5464
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(cartoonitohd)/variant.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="MOVIES" , MOV8
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23345.ts?thanos1975 
