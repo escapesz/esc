@@ -27,6 +27,9 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 group-title="ENT", MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+
 #EXTINF:-1 group-title="MOVIES", Universal Reality
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"25261b6f75ce58bc9be5e25b438e2af7":"dd8f7f46cb39d619f63a1b01ecdd0b78","e7e60190bf265d0db1090b8ed7c06c3a":"ed2a63ff6b077418967882439a2ab12a","5d494197700f5d238b86c9ef2c40cb1a":"171a6b6ba3b7acd781085c03036572e7"}
@@ -123,6 +126,9 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="SPORTS", BELLATOR
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", NBC LOCAL
+http://stream.cammonitorplus.net/1765/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="MOVIES", 24 HOUR FREE MOVIES
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
 
@@ -137,6 +143,12 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
 
 #EXTINF:-1 tvg-logo="" group-title="", MOTORTREND
 https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES", HBO LOCAL
+https://gpuserver4.tier1streams.com/HBO_HD/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES", HBO COMEDY LOCAL
+https://primexclusive.day/1444576/5450985/1014
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO EAST
 http://40.160.24.53/HBO_HD/index.m3u8
