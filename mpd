@@ -135,11 +135,11 @@ https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Sportsnet 360
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",  SHOWTIME
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2416.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",  SHOWTIME 2 LOCAL
+https://gpuserver5.tier1streams.com/SHOWTIME_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",  SHOWTIME EXTREME
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
+https://gpuserver5.tier1streams.com/SHOWTIME_EXTREME/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", MOTORTREND
 https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
