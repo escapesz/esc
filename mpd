@@ -27,6 +27,18 @@ http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
 
+#EXTINF:-1 tvg-id="" group-title="NEWS,Abante TV 
+https://streams.comclark.com/transcodesd/abante/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NEWS",ANC LOCAL
+https://streams.comclark.com/pknsd/anc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",TV5 LOCAL
+https://streams.comclark.com/pknsd/tv5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",RPTV LOCAL
+https://streams.comclark.com/pknsd/rptv/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES", CINEMAX
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
