@@ -132,9 +132,6 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="" group-title="MOVIES" , FXX 
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", UFC CHANNEL
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/61769
-
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", UFC TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 
@@ -146,9 +143,6 @@ http://stream.cammonitorplus.net/1765/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="MOVIES", 24 HOUR FREE MOVIES
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Sportsnet 360
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",  SHOWTIME 2 LOCAL
 https://gpuserver5.tier1streams.com/SHOWTIME_2/index.m3u8
@@ -162,31 +156,22 @@ https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
 #EXTINF:-1 group-title="MOVIES", HBO LOCAL
 http://136.239.158.10:6610/001/2/ch00000090990000001065/sec-f2-v1-a1.m3u8?JITPDRMType=NO&version=v1.0&IASHttpSessionId=OTT392669120260820010738097479&programid=ch00000000000000001085&virtualDomain=001.live_hls.zte.com&recommendtype=0&BreakPoint=0&profilecode=&userid=1362658369654&videoid=ch00000090990000001065&usersessionid=UVJL5F87UVBXXX&ispcode=55&terminalflag=1&NeedJITP=1&stbid=02:00:00:00:00:00&boid=001&AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&m3u8_level=2&contentid=ch00000000000000001085&JITPMediaType=HLS&ztecid=ch00000090990000001065
 
-#EXTINF:-1 group-title="MOVIES", HBO COMEDY LOCAL
-https://primexclusive.day/1444576/5450985/1014
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO EAST
-http://40.160.24.53/HBO_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO COMDEY
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts
-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO ZONE
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", STARZ
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3964.ts
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", STARZ ENCORE
-http://40.160.24.55/STARZ_ENCORE/index.m3u8
+https://restream-live.realiptv.to/09145054/65339468/3950
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", STARZ CINEMA
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", SYFY
-http://40.160.24.55/SYFY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", STARZ EDGE
+https://restream-live.realiptv.to/09145054/65339468/3961
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", SYFY HD
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENT", NAT GEO WILD
@@ -196,7 +181,7 @@ http://40.160.24.53/NAT_GEO_WILD/index.m3u8
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", NBA TV HD
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2470.ts
+http://23.237.104.106:8080/USA_NBA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", NBA TV LOCAL
 http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
